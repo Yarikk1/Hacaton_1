@@ -1,0 +1,48 @@
+.Right_block_section_1 {
+  font-family: "Montserrat", sans-serif;
+  color: white;
+}
+
+.All_blocks_section_1{
+  display: flex;
+  order: 2;
+}
+
+.Name_section_1 {
+  display: flex;
+  justify-content: center;
+  font-size: 80px;
+  background: linear-gradient(91.97deg, #ff4e50 -6.36%, #f9d423 160.6%);
+  border-radius: 15px;
+}
+
+.Disigned_section_1 {
+  font-size: 30px;
+  margin: 20px;
+}
+
+.AboutMe_section_1 {
+  background: rgba(255, 255, 255, 0.3);
+  font-size: 20px;
+  backdrop-filter: blur(6px);
+  padding: 8px;
+  border-radius: 15px;
+}
+
+.Keys_section_1 {
+  font-size: 20px;
+  margin: 20px;
+}
+
+.Keyses_section_1{
+    display: flex;
+    gap: 30px;
+}
+
+.Keys_1{
+    border-radius: 15px;
+}
+
+.Keys_2{
+    border-radius: 15px;
+}

@@ -1,0 +1,132 @@
+.Left_block_section_1 {
+  width: 100%;
+}
+.Irina_section_1 {
+  width: 430px;
+  height: 317px;
+}
+
+.Subblock_Irina_section_1 {
+  display: flex;
+  order: 1;
+}
+
+.Icons_left_block_section_1 {
+  display: flex;
+  margin-top: 10px;
+  gap: 10px;
+  background: rgba(255, 255, 255, 0.3);
+  backdrop-filter: blur(6px);
+  padding: 8px;
+  border-radius: 15px;
+}
+
+.Portfolio_section_1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  background: rgba(255, 255, 255, 0.3);
+  backdrop-filter: blur(6px);
+  padding: 8px;
+  border-radius: 15px;
+}
+
+.Subblock_portfolio_section_1 {
+  background: linear-gradient(92.61deg, #ff4e50 -106.08%, #f9d423 160.69%);
+  -webkit-text-fill-color: text;
+  height: 30px;
+  font-size: 20px;
+  font-weight: 600;
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+.Icons_portfolio_section_1 {
+  display: flex;
+  gap: 40px;
+}
+
+.Subblock__2_Irina_section_1 {
+  font-family: "Montserrat", sans-serif;
+  color: white;
+}
+
+.Subblock_Irina_section_1 {
+  display: flex;
+  flex-direction: column;
+}
+
+.Subblock_skills_section_1 {
+  margin: 10px;
+}
+
+.Subblock_soft_section_1 {
+  margin: 10px;
+}
+
+.Education_section_1 {
+  display: flex;
+  gap: 20px;
+}
+
+.YarGU_section_1 {
+  display: flex;
+  background: rgba(255, 255, 255, 0.3);
+  backdrop-filter: blur(6px);
+  padding: 8px;
+  border-radius: 15px;
+}
+
+.YGPU_section_1 {
+  display: flex;
+  background: rgba(255, 255, 255, 0.3);
+  backdrop-filter: blur(6px);
+  padding: 8px;
+  border-radius: 15px;
+}
+
+.Other_section_1 {
+  display: flex;
+  gap: 20px;
+}
+
+.Language_section_1 {
+  display: flex;
+  background: linear-gradient(91.97deg, #ff4e50 -6.36%, #f9d423 160.6%);
+  padding: 8px;
+  border-radius: 15px;
+}
+
+.Microsoft_section_1 {
+  display: flex;
+  background: linear-gradient(91.97deg, #ff4e50 -6.36%, #f9d423 160.6%);
+  padding: 8px;
+  border-radius: 15px;
+}
+
+.Tests_section_1 {
+  display: flex;
+  gap: 20px;
+}
+
+.Balbin_section_1 {
+  display: flex;
+  background: linear-gradient(91.97deg, #ff4e50 -6.36%, #f9d423 160.6%);
+  padding: 8px;
+  border-radius: 15px;
+}
+
+.Personality_section_1 {
+  display: flex;
+  background: linear-gradient(91.97deg, #ff4e50 -6.36%, #f9d423 160.6%);
+  padding: 8px;
+  border-radius: 15px;
+}
+
+.EducationOther_section_1 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
